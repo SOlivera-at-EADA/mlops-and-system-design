@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1779699279517
+current_stage: None
+description: ''
+last_updated_timestamp: 1779699279517
+name: DecisionTreeChurnModel
+run_id: c182d2c9157b4900824f4fd0621fc703
+run_link: ''
+source: mlflow-artifacts:/126819998824817764/c182d2c9157b4900824f4fd0621fc703/artifacts/decision_tree_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/126819998824817764/c182d2c9157b4900824f4fd0621fc703/artifacts/decision_tree_model
+user_id: null
+version: 1

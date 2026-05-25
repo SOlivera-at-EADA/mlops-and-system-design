@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/santi/OneDrive/Documents/Computadora/Python/ML-Ops/Class%20Exercise%20session_2/mlruns/0/f6d5073278154171b96ddc2bc9aff136/artifacts
+end_time: 1779691615317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6d5073278154171b96ddc2bc9aff136
+run_name: bold-moose-982
+run_uuid: f6d5073278154171b96ddc2bc9aff136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691615231
+status: 4
+tags: []
+user_id: santi
