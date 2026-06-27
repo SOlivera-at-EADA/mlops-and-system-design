@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/126819998824817764/c54836725dc24df3ae56631c20ae68a2/artifacts
+end_time: 1779699216744
+entry_point_name: ''
+experiment_id: '126819998824817764'
+lifecycle_stage: active
+run_id: c54836725dc24df3ae56631c20ae68a2
+run_name: secretive-yak-820
+run_uuid: c54836725dc24df3ae56631c20ae68a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699216596
+status: 4
+tags: []
+user_id: santi

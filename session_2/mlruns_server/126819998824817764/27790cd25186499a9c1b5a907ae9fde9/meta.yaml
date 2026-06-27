@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/126819998824817764/27790cd25186499a9c1b5a907ae9fde9/artifacts
+end_time: 1779699233279
+entry_point_name: ''
+experiment_id: '126819998824817764'
+lifecycle_stage: active
+run_id: 27790cd25186499a9c1b5a907ae9fde9
+run_name: rogue-rat-250
+run_uuid: 27790cd25186499a9c1b5a907ae9fde9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699233151
+status: 4
+tags: []
+user_id: santi
